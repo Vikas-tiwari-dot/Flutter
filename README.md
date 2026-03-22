@@ -74,12 +74,6 @@ lib/
 
 ---
 
-## Screenshots
-
-> Run the app on an emulator or device to see the UI.
-
----
-
 ## Made with
 
 - Flutter
